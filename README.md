@@ -12,7 +12,7 @@ git clone --mirror git@github.com:minashafikthabet/Test-mirroring-github-codecom
 ```
 then you need to go into your repo folder and add the new remote repository.
 ```
-cd primary_repo.git
+cd Test-mirroring-github-codecommit.git
 git remote add --mirror=fetch secondary codecommit::us-east-1://jcrew-temp@rackspace-mirror-poc
 ```
 Now you are ready to fetch out on your origin (primary) remote repository, and after it pushes everything to your secondary remote repository.
