@@ -1,3 +1,4 @@
 # Test-mirroring-github-codecommit
 Test Mirroring between github and code commit 
-test
+test 
+tag v2.0.0
